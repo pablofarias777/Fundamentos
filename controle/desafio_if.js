@@ -1,4 +1,4 @@
-const nota = 3;
+const nota = 4;
 
 if (nota >= 9 && nota <= 10) {
   console.log('A');
